@@ -1,0 +1,64 @@
+<productos>
+    <producto>
+        <titulo>Memoria S</titulo>
+        <descripcion>SSD M.2 980 PRO 2TB PCIe NVMe Gen4 interno para juegos (MZ-V8P2T0B/AM)</descripcion>
+        <precio>159</precio>
+        <img>memoria.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Laptop Lenovo</titulo>
+        <descripcion>Lenovo Laptop Ideapad 3 2022, pantalla táctil HD de 15.6 pulgadas, procesador
+            Intel Core i3-1115G4 de 11ª generación, 8 GB de RAM DDR4, SSD PCIe NVMe de 256</descripcion>
+        <precio>388</precio>
+        <img>Laptop.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Impresora HP</titulo>
+        <descripcion>HP DeskJet 2723e Impresora todo en uno con tinta instantánea adicional de 9
+            meses </descripcion>
+        <precio>49</precio>
+        <img>impresora.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Camara Logitech</titulo>
+        <descripcion>HP DeskJet 2723e Impresora todo en uno con tinta instantánea adicional de 9
+            meses </descripcion>
+        <precio>219</precio>
+        <img>camara.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Teclado Logitech</titulo>
+        <descripcion>HP DeskJet 2723e Impresora todo en uno con tinta instantánea adicional de 9
+            meses </descripcion>
+        <precio>150</precio>
+        <img>teclado.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Monitor HP</titulo>
+        <descripcion>HP Monitor FHD de 24 mh - Monitor de computadora con pantalla IPS de 23,8
+            pulgadas (1080p) - Altavoces incorporados y montaje VESA </descripcion>
+        <precio>178</precio>
+        <img>Monitor.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Procesador Intel</titulo>
+        <descripcion>Intel Core i9-13900K Procesador de escritorio de 24 núcleos (8 núcleos P + 16
+            núcleos electrónicos), caché de 36 M, hasta 5.8 GHz</descripcion>
+        <precio>570</precio>
+        <img>procesador.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Laptop Acer</titulo>
+        <descripcion>Acer Nitro 5 AN515-57-79TD - Laptop para videojuegos con Intel Core i7-11800H,
+            NVIDIA GeForce RTX 3050 Ti, pantalla IPS FHD de 15.6 pulgadas, DDR4 de 8 GB, SSD NVMe de
+            512 GB, Killer Wi-Fi 6, teclado retroiluminado </descripcion>
+        <precio>730</precio>
+        <img>laptopacer.jpg</img>
+    </producto>
+    <producto>
+        <titulo>Tablet Samsung</titulo>
+        <descripcion>Samsung Tab A7 Lite 8.7" gris de 32GB (SM-T220NZAAXAR)</descripcion>
+        <precio>130</precio>
+        <img>tablet.jpg</img>
+    </producto>
+</productos>
